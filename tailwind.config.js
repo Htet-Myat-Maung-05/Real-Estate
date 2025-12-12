@@ -14,20 +14,22 @@ module.exports = {
         "rubik-extraBold": ["Rubik-ExtraBold", "sans-serif"],
       },
       colors: {
-        100: '#0061ff0A',
-        200: '#0061ff1A',
-        300: '#0061ff'
-      },
-      accent: {
-        100: "#fbfbfd"
-      },
-      black: {
-        DEFAULT: "#000000",
-        100: "#8c8e98",
-        200: "#666876",
-        300: "#191d31"
-      },
-      danger : "#f75555"
+        primary: {
+          100: '#0061ff0A',
+          200: '#0061ff1A',
+          300: '#0061ff',
+        },
+        accent: {
+          100: "#fbfbfd"
+        },
+        black: {
+          DEFAULT: "#000000",
+          100: "#8c8e98",
+          200: "#666876",
+          300: "#191d31"
+        },
+        danger: "#f75555",
+    },
     },
   },
   plugins: [],

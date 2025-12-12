@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c794d5-f184-4468-a45d-1ea3c98eecac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/libs/appwrite.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.vscode/extensions.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pokemon/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/app/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sign-in.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/sign-in.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/(tabs)/_layout.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/(tabs)/index.tsx" beforeDir="false" />
@@ -51,14 +58,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36hieWMI5rI2XSPvuABQD83oP6h" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -81,7 +91,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.import",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "E:\\Work\\Htet-Myat-Maung\\React_Native\\Real-Estate-WS\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
@@ -115,7 +125,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765465301135</updated>
-      <workItem from="1765465302364" duration="7299000" />
+      <workItem from="1765465302364" duration="7729000" />
+      <workItem from="1765473178212" duration="41000" />
+      <workItem from="1765497786860" duration="6192000" />
     </task>
     <servers />
   </component>
