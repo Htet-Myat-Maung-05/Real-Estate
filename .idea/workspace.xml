@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c794d5-f184-4468-a45d-1ea3c98eecac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/libs/appwrite.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/(tabs)/_layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.vscode/extensions.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pokemon/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon/app/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/(tabs)/profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tabs)/profile.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/sign-in.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/sign-in.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/appwrite.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/(tabs)/_layout.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/(tabs)/index.tsx" beforeDir="false" />
@@ -57,6 +56,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -87,13 +89,17 @@
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "E:/Work/Htet-Myat-Maung/React_Native/Real-Estate-WS",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "prettierjs.PrettierConfiguration.Package": "E:\\Work\\Htet-Myat-Maung\\React_Native\\Real-Estate-WS\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "to.speed.mode.migration.done": "true",
     "ts.external.directory.path": "E:\\Work\\Htet-Myat-Maung\\React_Native\\Real-Estate-WS\\node_modules\\typescript\\lib",
+    "typescript.add.unambiguous.imports.on.the.fly": "true",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -127,7 +133,16 @@
       <updated>1765465301135</updated>
       <workItem from="1765465302364" duration="7729000" />
       <workItem from="1765473178212" duration="41000" />
-      <workItem from="1765497786860" duration="6192000" />
+      <workItem from="1765497786860" duration="6561000" />
+      <workItem from="1765507961912" duration="539000" />
+      <workItem from="1765550914879" duration="2498000" />
+      <workItem from="1765583004476" duration="8155000" />
+      <workItem from="1765597198041" duration="1101000" />
+      <workItem from="1765629453916" duration="1188000" />
+      <workItem from="1765632092721" duration="616000" />
+      <workItem from="1765633237122" duration="310000" />
+      <workItem from="1765636811063" duration="669000" />
+      <workItem from="1765637496965" duration="4123000" />
     </task>
     <servers />
   </component>
